@@ -21,11 +21,7 @@ Topa encarar esse desafio e deixar o site mais acessível? 💜 <br>
 Vai ser muito importante para o seu aprendizado rever e aplicar esses novos conceitos. 
 <br>
 <br>
-Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!
-<br>
-<br>
-Para facilitar, vamos deixar o link do Figma aqui pra você.
-  
+Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma dificuldade, você pode voltar nas aulas e rever a maneira com que foi desenvolvido!  
 <br>
 
 
