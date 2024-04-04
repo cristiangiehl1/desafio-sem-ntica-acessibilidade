@@ -11,6 +11,10 @@ Como você pode ver na imagem abaixo, a página (exceto o botão) continua funci
 <p align="center">
   <img alt="desafio corrigindo bugs" src="github/img.png" width="100%">
 </p>
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
+</p>
 
 <p align="justify">
 Topa encarar esse desafio e deixar o site mais acessível? 💜 <br>
@@ -21,11 +25,7 @@ Lembrando: tente se desafiar e não olhar a resposta mas, caso apareça alguma d
 <br>
 <br>
 Para facilitar, vamos deixar o link do Figma aqui pra você.
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
-</p>
+  
 <br>
 
 
